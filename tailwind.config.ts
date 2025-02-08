@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        gideon: ["Gideon Roman", "serif"],
+        poppins: ["Poppins", "serif"],
+      },
     },
   },
   plugins: [],
